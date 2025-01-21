@@ -1,6 +1,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+// clang main.c -o main
+
 typedef struct stack
 {
     int top;
